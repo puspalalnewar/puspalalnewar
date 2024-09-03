@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Puspalal Newar</h1>
-<h3 align="center">A Passionate React Js Developer From India.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puspalalnewar&label=Profile%20views&color=0e75b6&style=flat" alt="puspalalnewar" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Puspalal+Newar;Welcome+To+My+Profile!" alt="Welcome to my profile!" />
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x3/1ABC9C/000000?text=" alt="colored line" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puspalalnewar" alt="puspalalnewar" /></a> </p>
 
