@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x3/1ABC9C/000000?text=" alt="colored line" />
+  <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puspalalnewar" alt="puspalalnewar" /></a> </p>
