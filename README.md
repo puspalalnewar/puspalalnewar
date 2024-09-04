@@ -21,7 +21,11 @@ Let's connect and create something amazing together!
   <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=puspalalnewar&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" alt="puspalalnewar trophies" style="max-width: 100%; height: auto;" />
+  </a>
+</p>
 <p align="center">
 <!--   <img src="https://i.imgur.com/4FoeH6a.png" alt="Animated banner" style="height: 10rem; width: 100%; object-fit: cover;"/> -->
 </p>
