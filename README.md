@@ -41,4 +41,17 @@ Let's connect and create something amazing together!
   <img src="https://img.shields.io/badge/Hosting-GitHub-181717?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Code-Java-007396?style=flat-square&logo=java" />
 </p>
+<div align="center">
 
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=puspalalnewar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width: 45%; margin-right: 10px;" />
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=puspalalnewar&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="width: 45%;" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puspalalnewar&theme=radical" alt="GitHub Streak Stats" style="width: 90%; margin-top: 20px;" />
+
+</div>
+
+</div>
