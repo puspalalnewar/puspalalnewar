@@ -33,21 +33,57 @@ Let's connect and create something amazing together!
   <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
 </p>
 
+<h3 align="left" style="color: #FF5733; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">Languages and Tools:</h3>
 
-### 🛠️ Technologies & Tools
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="border-radius: 5px;" /> 
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="border-radius: 5px;" /> 
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="border-radius: 5px;" /> 
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="border-radius: 5px;" /> 
+  </a>
+
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="border-radius: 5px;" /> 
+  </a>
+
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="border-radius: 5px;" /> 
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="border-radius: 5px;" /> 
+  </a>
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="border-radius: 5px;" /> 
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="border-radius: 5px;" /> 
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="border-radius: 5px;" /> 
+  </a>
+
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-React.js-00d8ff?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Code-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/Code-HTML-E34F26?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/Code-CSS-1572B6?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-C-00599C?style=flat-square&logo=c" />
-  <img src="https://img.shields.io/badge/Code-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/Hosting-GitHub-181717?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Code-Java-007396?style=flat-square&logo=java" />
+  <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
 </p>
+
+
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <!-- Top Languages Card -->
