@@ -83,28 +83,24 @@ Let's connect and create something amazing together!
   <tr>
     <!-- Top Languages Card -->
     <td style="text-align: center; vertical-align: middle;">
-      <img id="top-languages" 
-           src="https://github-readme-stats.vercel.app/api/top-langs?username=puspalalnewar&show_icons=true&locale=en&layout=compact&theme=radical" 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=puspalalnewar&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" 
            alt="Top Languages" 
            style="border: 2px solid #007ACC; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); width: 100%; max-width: 400px; height: auto;" />
     </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img id="github-stats" 
-           src="https://github-readme-stats.vercel.app/api?username=puspalalnewar&show_icons=true&locale=en&theme=radical" 
-           alt="puspalalnewar" 
-           style="border: 2px solid #007ACC; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); width: 100%; max-width: 400px;" />
-    </td>
     <!-- GitHub Stats Card -->
+    <td style="text-align: center; vertical-align: middle;">
+      <img src="https://github-readme-stats.vercel.app/api?username=puspalalnewar&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=true" 
+           alt="puspalalnewar" 
+           style="border: 2px solid #007ACC; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); width: 100%; max-width: 400px; height: auto;" />
+    </td>
+
+    
     
   </tr>
 </table>
 
-
-
 <div align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=puspalalnewar&theme=radical" alt="GitHub Streak Stats" style="width: 90%; margin-top: 20px;" />
-
-</div>
 
 </div>
