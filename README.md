@@ -1,7 +1,4 @@
 <p align="center">
-<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Puspalal+Newar;Welcome+To+My+Profile!" alt="Welcome to my profile!" /> -->
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&color=FF5733&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Puspalal+Newar;Welcome+To+My+Profile!" alt="Welcome to my profile!" />
 </p>
 <p align="center">
@@ -82,21 +79,28 @@ Let's connect and create something amazing together!
 <p align="center">
   <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
 </p>
+<table align="center" style="border-spacing: 20px; width: 100%;">
+  <tr>
+    <!-- Top Languages Card -->
+    <td style="text-align: center; vertical-align: middle;">
+      <img id="top-languages" 
+           src="https://github-readme-stats.vercel.app/api/top-langs?username=puspalalnewar&show_icons=true&locale=en&layout=compact&theme=radical" 
+           alt="Top Languages" 
+           style="border: 2px solid #007ACC; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); width: 100%; max-width: 400px; height: auto;" />
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <img id="github-stats" 
+           src="https://github-readme-stats.vercel.app/api?username=puspalalnewar&show_icons=true&locale=en&theme=radical" 
+           alt="puspalalnewar" 
+           style="border: 2px solid #007ACC; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); width: 100%; max-width: 400px;" />
+    </td>
+    <!-- GitHub Stats Card -->
+    
+  </tr>
+</table>
 
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=puspalalnewar&show_icons=true&locale=en&layout=compact&theme=radical" 
-       alt="Top Languages" 
-       style="border: 2px solid #007ACC; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); width: 45%; height: auto;" />
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=puspalalnewar&show_icons=true&locale=en&theme=radical" 
-       alt="puspalalnewar" 
-       style="border: 2px solid #007ACC; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); width: 45%; height: auto;" />
-
-</div>
 <div align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=puspalalnewar&theme=radical" alt="GitHub Streak Stats" style="width: 90%; margin-top: 20px;" />
