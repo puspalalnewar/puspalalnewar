@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&color=FF5733&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Puspalal+Newar;Welcome+To+My+Profile!" alt="Welcome to my profile!" />
 </p>
