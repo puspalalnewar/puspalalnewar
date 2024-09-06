@@ -94,14 +94,16 @@ Let's connect and create something amazing together!
            alt="puspalalnewar" 
            style="border: 2px solid #007ACC; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); width: 100%; max-width: 400px; height: auto;" />
     </td>
-
-    
-    
   </tr>
 </table>
 
 <div align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puspalalnewar&theme=radical" alt="GitHub Streak Stats" style="width: 90%; margin-top: 20px;" />
-
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puspalalnewar&theme=dark&background=000000&hide_border=true" alt="GitHub Streak Stats" style="width: 90%; margin-top: 20px;" />
+  </p>
 </div>
+<p align="center">
+  <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
+</p>
+
