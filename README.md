@@ -80,6 +80,9 @@ Let's connect and create something amazing together!
 <p align="center">
   <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
 </p>
+
+### 📈 Github Stats
+
 <table align="center" style="border-spacing: 20px; width: 100%;">
   <tr>
     <!-- Top Languages Card -->
