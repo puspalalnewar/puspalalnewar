@@ -20,6 +20,17 @@ Let's connect and create something amazing together!
   <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
 </p>
 
+### Connect With Me : 
+<p align="left">
+<a href="https://twitter.com/puspalal_newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puspalal_newar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/puspalalnewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puspalalnewar" height="30" width="40" /></a>
+<a href="https://instagram.com/puspalal_newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puspalal_newar" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
+</p>
+
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -115,10 +126,5 @@ Let's connect and create something amazing together!
   <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
 </p>
 
-### Connect With Me : 
-<p align="left">
-<a href="https://twitter.com/puspalal_newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puspalal_newar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/puspalalnewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puspalalnewar" height="30" width="40" /></a>
-<a href="https://instagram.com/puspalal_newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puspalal_newar" height="30" width="40" /></a>
-</p>
+
 
