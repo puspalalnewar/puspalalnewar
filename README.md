@@ -9,7 +9,7 @@
 <h3> Hello, I'm Puspalal Newar! 👋</h3>
 
 - 🧑‍💻 **I am a Passionate React.js Developer**.
-- 💻 Currently, I am working on my own project and looking to collaborate on **Open Source** contributions.
+- 💻 Currently, I am learning and looking to collaborate on **Open Source** contributions.
 - 🚀 I’m continuously learning and exploring new tools and technologies.
 - 📫 How to reach me **puspalalnewar79@gmail.com**
 - 🌍 From **India**.
@@ -36,9 +36,6 @@ Let's connect and create something amazing together!
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=puspalalnewar&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" alt="puspalalnewar trophies" style="max-width: 100%; height: auto;" />
   </a>
-</p>
-<p align="center">
-<!--   <img src="https://i.imgur.com/4FoeH6a.png" alt="Animated banner" style="height: 10rem; width: 100%; object-fit: cover;"/> -->
 </p>
 <p align="center">
   <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
