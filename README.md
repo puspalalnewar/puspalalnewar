@@ -118,6 +118,10 @@ Let's connect and create something amazing together!
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puspalalnewar&theme=dark&background=000000&hide_border=true" alt="GitHub Streak Stats" style="width: 90%; margin-top: 20px;" />
   </p>
 </div>
+
+[![Puspalal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=puspalalnewar&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/puspalalnewar/github-readme-activity-graph)
+
+
 <p align="center">
   <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
 </p>
