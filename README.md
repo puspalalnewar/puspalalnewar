@@ -9,12 +9,23 @@
 <h3> Hello, I'm Puspalal Newar! 👋</h3>
 
 - 🧑‍💻 **I am a Passionate React.js Developer**.
-- 💻 Currently, I am working on my own project and looking to collaborate on **Open Source** contributions.
+- 💻 Currently, I am learning and looking to collaborate on **Open Source** contributions.
 - 🚀 I’m continuously learning and exploring new tools and technologies.
 - 📫 How to reach me **puspalalnewar79@gmail.com**
 - 🌍 From **India**.
 
 Let's connect and create something amazing together!
+
+<p align="center">
+  <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
+</p>
+
+### Connect With Me : 
+<p align="left">
+<a href="https://twitter.com/puspalal_newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puspalal_newar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/puspalalnewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puspalalnewar" height="30" width="40" /></a>
+<a href="https://instagram.com/puspalal_newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puspalal_newar" height="30" width="40" /></a>
+</p>
 
 <p align="center">
   <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
@@ -27,19 +38,12 @@ Let's connect and create something amazing together!
   </a>
 </p>
 <p align="center">
-<!--   <img src="https://i.imgur.com/4FoeH6a.png" alt="Animated banner" style="height: 10rem; width: 100%; object-fit: cover;"/> -->
-</p>
-<p align="center">
   <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
 </p>
 
 <h3 align="left" style="color: #FF5733; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">Languages and Tools:</h3>
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="border-radius: 5px;" /> 
-  </a>
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="border-radius: 5px;" /> 
@@ -76,8 +80,11 @@ Let's connect and create something amazing together!
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="border-radius: 5px;" /> 
   </a>
-  <a href="https://github.com/puspalalnewar" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="border-radius: 5px;" />
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" height="40" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="47" height="40" style="border-radius: 50%; background-color: white;" />
 </a>
 
 </p>
@@ -111,14 +118,13 @@ Let's connect and create something amazing together!
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puspalalnewar&theme=dark&background=000000&hide_border=true" alt="GitHub Streak Stats" style="width: 90%; margin-top: 20px;" />
   </p>
 </div>
+
+[![Puspalal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=puspalalnewar&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/puspalalnewar/github-readme-activity-graph)
+
+
 <p align="center">
   <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
 </p>
 
-### Connect With Me : 
-<p align="left">
-<a href="https://twitter.com/puspalal_newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puspalal_newar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/puspalalnewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puspalalnewar" height="30" width="40" /></a>
-<a href="https://instagram.com/puspalal_newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puspalal_newar" height="30" width="40" /></a>
-</p>
+
 
