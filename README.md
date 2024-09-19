@@ -80,12 +80,14 @@ Let's connect and create something amazing together!
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="border-radius: 5px;" /> 
   </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" height="40" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="47" height="40" style="border-radius: 50%; background-color: white;" />
-</a>
+  
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" height="40" />
+  </a>
+  
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="47" height="40" style="border-radius: 50%; background-color: white;" />
+  </a>
 
 </p>
 
@@ -115,7 +117,7 @@ Let's connect and create something amazing together!
 <div align="center">
   <!-- GitHub Streak Stats -->
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puspalalnewar&theme=dark&background=000000&hide_border=true" alt="GitHub Streak Stats" style="width: 90%; margin-top: 20px;" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puspalalnewar&theme=dark&background=000000&hide_border=true" alt="GitHub Streak Stats" style="width:         90%; margin-top: 20px;" />
   </p>
 </div>
 
@@ -125,6 +127,20 @@ Let's connect and create something amazing together!
 <p align="center">
   <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
 </p>
+
+
+### 📈 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/puspalal_newar?theme=dark&font=source_code_pro&ext=heatmap&border=1&radius=10&animation=true" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
+</p>
+
+
+
 
 
 
