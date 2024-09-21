@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&color=3498DB&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Puspalal+Newar;Welcome+To+My+Profile!" alt="Welcome to my profile!" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&color=FF5733&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Puspalal+Newar;Welcome+To+My+Profile!" alt="Welcome to my profile!" />
-</p>
-<p align="center">
-  <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
+  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
 </p>
 <h2>About Me</h2>
 <h3> Hello, I'm Puspalal Newar! 👋</h3>
@@ -17,7 +17,7 @@
 Let's connect and create something amazing together!
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
+  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
 </p>
 
 ### Connect With Me : 
@@ -28,7 +28,7 @@ Let's connect and create something amazing together!
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
+  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
 </p>
 
 ### 🏆 GitHub Trophies
@@ -38,7 +38,7 @@ Let's connect and create something amazing together!
   </a>
 </p>
 <p align="center">
-  <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
+  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
 </p>
 
 <h3 align="left" style="color: #FF5733; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">Languages and Tools:</h3>
@@ -92,7 +92,7 @@ Let's connect and create something amazing together!
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
+  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
 </p>
 
 ### 📈 Github Stats
@@ -125,7 +125,7 @@ Let's connect and create something amazing together!
 
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
+  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
 </p>
 
 
@@ -136,9 +136,8 @@ Let's connect and create something amazing together!
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x2/1ABC9C/000000?text=" alt="colored line" />
+  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
 </p>
-
 
 
 
