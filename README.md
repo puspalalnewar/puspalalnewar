@@ -135,9 +135,6 @@ Let's connect and create something amazing together!
   <img src="https://leetcard.jacoblin.cool/puspalal_newar?theme=dark&font=source_code_pro&ext=heatmap&border=1&radius=10&animation=true" alt="LeetCode Stats" />
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
-</p>
 
 
 
