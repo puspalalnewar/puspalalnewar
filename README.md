@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
+  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
 </p>
 <h2>About Me</h2>
 <h3> Hello, I'm Puspalal Newar! 👋</h3>
@@ -17,7 +17,7 @@
 Let's connect and create something amazing together!
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
+  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
 </p>
 
 ### Connect With Me : 
@@ -28,7 +28,7 @@ Let's connect and create something amazing together!
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
+  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
 </p>
 
 ### 🏆 GitHub Trophies
@@ -38,7 +38,7 @@ Let's connect and create something amazing together!
   </a>
 </p>
 <p align="center">
-  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
+  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
 </p>
 
 <h3 align="left" style="color: #FF5733; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">Languages and Tools:</h3>
@@ -92,7 +92,7 @@ Let's connect and create something amazing together!
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
+  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
 </p>
 
 ### 📈 Github Stats
@@ -125,7 +125,7 @@ Let's connect and create something amazing together!
 
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x2/ADD8E6/000000?text=" alt="light bluish line" />
+  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
 </p>
 
 
@@ -134,6 +134,11 @@ Let's connect and create something amazing together!
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/puspalal_newar?theme=dark&font=source_code_pro&ext=heatmap&border=1&radius=10&animation=true" alt="LeetCode Stats" />
 </p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
+</p>
+
 
 
 
