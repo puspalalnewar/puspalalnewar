@@ -135,9 +135,6 @@ Let's connect and create something amazing together!
   <img src="https://leetcard.jacoblin.cool/puspalal_newar?theme=dark&font=source_code_pro&ext=heatmap&border=1&radius=10&animation=true" alt="LeetCode Stats" />
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
-</p>
 
 
 
