@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
 </p>
+
 <h2>About Me</h2>
 <h3> Hello, I'm Puspalal Newar! 👋</h3>
 
@@ -16,6 +17,16 @@
 
 Let's connect and create something amazing together!
 
+<p align="center">
+  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
+</p>
+
+### 🏆 LeetCode Badges
+<p align="center">
+  
+  ![LeetCode-Badges](https://github.com/user-attachments/assets/198f770a-1efe-4f17-b146-3f559157d2ad)
+  
+</p>
 <p align="center">
   <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
 </p>
