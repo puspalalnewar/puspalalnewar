@@ -41,9 +41,8 @@ Let's connect and create something amazing together!
     <img src="https://github-profile-trophy.vercel.app/?username=puspalalnewar&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" alt="puspalalnewar trophies" style="max-width: 100%; height: auto;" />
   </a>
 </p>
-<p align="center">
-  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
-</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left" style="color: #FF5733; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">Languages and Tools:</h3>
 
@@ -117,9 +116,8 @@ Let's connect and create something amazing together!
 </table>
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puspalalnewar&theme=dark&background=000000&hide_border=true" alt="GitHub Streak Stats" style="width:         90%; margin-top: 20px;" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puspalalnewar&theme=dark&background=000000&hide_border=true" alt="GitHub Streak Stats" style="width:90%; margin-top: 20px;" />
   </p>
 </div>
 
@@ -134,11 +132,3 @@ Let's connect and create something amazing together!
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/puspalal_newar?theme=dark&font=source_code_pro&ext=heatmap&border=1&radius=10&animation=true" alt="LeetCode Stats" />
 </p>
-
-
-
-
-
-
-
-
