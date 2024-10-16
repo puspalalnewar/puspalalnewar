@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&color=3498DB&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Puspalal+Newar;Welcome+To+My+Profile!" alt="Welcome to my profile!" />
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>About Me</h2>
 <h3> Hello, I'm Puspalal Newar! 👋</h3>
@@ -17,9 +15,7 @@
 
 Let's connect and create something amazing together!
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🏆 LeetCode Badges
 <p align="center">
@@ -27,9 +23,8 @@ Let's connect and create something amazing together!
   ![LeetCode-Badges](https://github.com/user-attachments/assets/198f770a-1efe-4f17-b146-3f559157d2ad)
   
 </p>
-<p align="center">
-  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
-</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Connect With Me : 
 <p align="left">
@@ -38,9 +33,7 @@ Let's connect and create something amazing together!
 <a href="https://instagram.com/puspalal_newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puspalal_newar" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🏆 GitHub Trophies
 <p align="center">
@@ -102,9 +95,7 @@ Let's connect and create something amazing together!
 
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📈 Github Stats
 
@@ -135,9 +126,7 @@ Let's connect and create something amazing together!
 [![Puspalal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=puspalalnewar&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/puspalalnewar/github-readme-activity-graph)
 
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x2/32CD32/000000?text=" alt="attractive green line" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ### 📈 LeetCode Stats
