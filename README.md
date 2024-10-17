@@ -15,14 +15,6 @@
 
 Let's connect and create something amazing together!
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🏆 LeetCode Badges
-<p align="center">
-  
-  ![LeetCode-Badges](https://github.com/user-attachments/assets/198f770a-1efe-4f17-b146-3f559157d2ad)
-  
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
