@@ -20,7 +20,7 @@ Let's connect and create something amazing together!
 ### 🏆 LeetCode Badges
 <p align="center">
   
-  ![LeetCode-Badges](https://github.com/user-attachments/assets/198f770a-1efe-4f17-b146-3f559157d2ad)
+  ![LeetCode Badges](https://github.com/user-attachments/assets/66b3aed2-ad21-4be9-8d8a-aa8dc48a3bbf)
   
 </p>
 
