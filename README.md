@@ -10,7 +10,7 @@
 - 🧑‍💻 **I am a Passionate React.js Developer**.
 - 💻 Currently, I am learning and looking to collaborate on **Open Source** contributions.
 - 🚀 I’m continuously learning and exploring new tools and technologies.
-- 📫 How to reach me **npuspalal@gmail.com**
+- 📫 How to reach me **puspalalnewar79@gmail.com**
 - 🌍 From **India**.
 
 Let's connect and create something amazing together!
