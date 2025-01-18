@@ -94,7 +94,6 @@ Let's connect and create something amazing together!
 
  ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
-
 ### Connect With Me : 
 <p align="left">
 <a href="https://twitter.com/puspalal_newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puspalal_newar" height="30" width="40" /></a>
@@ -184,9 +183,8 @@ Let's connect and create something amazing together!
 </table>
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puspalalnewar&theme=dark&background=000000&hide_border=true" alt="GitHub Streak Stats" style="width:         90%; margin-top: 20px;" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puspalalnewar&theme=dark&background=000000&hide_border=true" alt="GitHub Streak Stats" style="width:90%; margin-top: 20px;" />
   </p>
 </div>
 
@@ -201,11 +199,3 @@ Let's connect and create something amazing together!
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/puspalal_newar?theme=dark&font=source_code_pro&ext=heatmap&border=1&radius=10&animation=true" alt="LeetCode Stats" />
 </p>
-
-
-
-
-
-
-
-
