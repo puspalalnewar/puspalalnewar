@@ -17,15 +17,6 @@ Let's connect and create something amazing together!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🏆 LeetCode Badges
-<p align="center">
-  
-  ![LeetCode Badges](https://github.com/user-attachments/assets/66b3aed2-ad21-4be9-8d8a-aa8dc48a3bbf)
-  
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### Connect With Me : 
 <p align="left">
 <a href="https://twitter.com/puspalal_newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puspalal_newar" height="30" width="40" /></a>
