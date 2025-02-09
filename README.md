@@ -97,10 +97,23 @@ Let's connect and create something amazing together!
 
 ### Connect With Me : 
 <p align="left">
-<a href="https://twitter.com/puspalal_newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puspalal_newar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/puspalalnewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puspalalnewar" height="30" width="40" /></a>
-<a href="https://instagram.com/puspalal_newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puspalal_newar" height="30" width="40" /></a>
+  <a href="https://twitter.com/puspalal_newar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/puspalalnewar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://www.leetcode.com/puspalal_newar" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/puspalal_newar" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" />
+  </a>
+  <a href="https://instagram.com/puspalal_newar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
+  </a>
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
