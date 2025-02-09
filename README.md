@@ -4,8 +4,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 <h2>About Me</h2>
-<h3> Hello, I'm Puspalal Newar! 👋</h3>
+<h3> Hello, I'm Puspalal Newar! 👋</h3> 
 
 - 🧑‍💻 **I am a Passionate React.js Developer**.
 - 💻 Currently, I am learning and looking to collaborate on **Open Source** contributions.
@@ -103,7 +104,10 @@ Let's connect and create something amazing together!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=puspalalnewar&label=Profile%20views&color=0e75b6&style=flat" alt="puspalalnewar" /> </p>
+
 ### 🏆 GitHub Trophies
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=puspalalnewar&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" alt="puspalalnewar trophies" style="max-width: 100%; height: auto;" />
