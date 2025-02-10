@@ -4,7 +4,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <h2>About Me</h2>
 <h3> Hello, I'm Puspalal Newar! 👋</h3> 
 
@@ -117,7 +116,10 @@ Let's connect and create something amazing together!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puspalalnewar&label=Profile%20views&color=0e75b6&style=flat" alt="puspalalnewar" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=puspalalnewar&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
 ### 🏆 GitHub Trophies
 
