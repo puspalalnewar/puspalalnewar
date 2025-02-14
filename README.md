@@ -21,7 +21,6 @@ Let's connect and create something amazing together!
   <img src="https://komarev.com/ghpvc/?username=puspalalnewar&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -30,6 +29,16 @@ Let's connect and create something amazing together!
          alt="puspalalnewar trophies" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://twitter.com/puspalal_newar" target="_blank">
+    <img 
+      src="https://img.shields.io/twitter/follow/puspalal_newar?logo=twitter&style=for-the-badge" 
+      alt="Follow @puspalal_newar on Twitter"
+    />
+  </a>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🧰 Tech Stack and Tools 
