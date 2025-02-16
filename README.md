@@ -4,21 +4,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2>About Me</h2>
+<h2>🚀 About Me</h2>
 <h3> Hello, I'm Puspalal Newar! 👋</h3> 
 
-- 🧑‍💻 **I am a Passionate React.js Developer**.
-- 💻 Currently, I am learning and looking to collaborate on **Open Source** contributions.
-- 🚀 I’m continuously learning and exploring new tools and technologies.
-- 📫 How to reach me **puspalalnewar79@gmail.com**
-- 🌍 From **India**.
+- 🧑‍💻 **Passionate Frontend Developer | Lifelong Learner**  
+- 💻 Currently exploring and contributing to **Open Source** projects.  
+- 🚀 Constantly learning new technologies to enhance my skills.   
+- 🌍 From **India**, aspiring to make an impact in the tech world.  
+- 📸 Also interested in **photography**, capturing nature’s beauty!  
+- 📫 Reach me at **puspalalnewar79@gmail.com**  
 
-Let's connect and create something amazing together!
+💡Let's connect, collaborate, and build something amazing together! ✨  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=puspalalnewar&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+   <img src="https://komarev.com/ghpvc/?username=puspalalnewar&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ### 🏆 GitHub Trophies
