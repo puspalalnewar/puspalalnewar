@@ -72,14 +72,6 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=nextjs"
-        width="65"
-        height="65"
-        alt="NextJS" />
-      <br />NextJS
-    </td>
-    <td align="center" width="128">
-      <img
         src="https://skillicons.dev/icons?i=nodejs"
         width="65"
         height="65"
@@ -114,6 +106,14 @@
   <tr>
     <td align="center" width="128">
       <img
+        src="https://skillicons.dev/icons?i=postman"
+        width="65"
+        height="65"
+        alt="Postman" />
+      <br />Postman
+    </td>
+    <td align="center" width="128">
+      <img
         src="https://skillicons.dev/icons?i=html"
         width="65"
         height="65"
@@ -122,11 +122,11 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/sass-icon.svg"
-        alt="icon"
+        src="https://skillicons.dev/icons?i=css"
         width="65"
-        height="65" />
-      <br />Sass
+        height="65"
+        alt="CSS" />
+      <br />CSS
     </td>
     <td align="center" width="128">
       <img
@@ -146,50 +146,50 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=jquery"
-        width="65"
-        height="65"
-        alt="jQuery" />
-      <br />jQuery
-    </td>
-    <td align="center" width="128">
-      <img
-      src="https://skillicons.dev/icons?i=php"
-      width="65"
-      height="65"
-        alt="PHP" />
-      <br />PHP
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/webpack-icon.svg"
-        alt="icon"
-        width="65"
-        height="65" />
-      <br />Webpack
-    </td>
-    <td align="center" width="128">
-      <img
         src="https://skillicons.dev/icons?i=vscode"
         width="65"
         height="65"
         alt="VsCode" />
       <br />VsCode
     </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=java"
+        width="65"
+        height="65"
+        alt="Java" />
+      <br />Java
+    </td>
   </tr>
   <tr>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/aws-icon.svg"
-        alt="icon"
+        src="https://skillicons.dev/icons?i=c"
         width="65"
-        height="65" />
-      <br />AWS
+        height="65"
+        alt="C" />
+      <br />C
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/github-icon.svg"
-        alt="icon"
+        src="https://skillicons.dev/icons?i=python"
+        width="65"
+        height="65"
+        alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=vite"
+        width="65"
+        height="65"
+        alt="Vite" />
+      <br />Vite
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=github"
+        alt="Github"
         width="65"
         height="65" />
       <br />Github
@@ -202,8 +202,59 @@
         alt="Git" />
       <br />Git
     </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=figma"
+        width="65"
+        height="65"
+        alt="Figma" />
+      <br />Figma
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=gmail"
+        width="65"
+        height="65"
+        alt="Gmail" />
+      <br />Gmail
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000"
+        width="65"
+        height="65"
+        alt="ChatGPT" />
+      <br />ChatGPT
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000"
+        width="65"
+        height="65"
+        alt="Windows" />
+      <br />Windows
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"
+        width="65"
+        height="65"
+        alt="YouTube" />
+      <br />YouTube
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://img.icons8.com/?size=100&id=YMqd3ECYxCji&format=png&color=000000"
+        width="65"
+        height="65"
+        alt="Udemy" />
+      <br />Udemy
+    </td>
   </tr>
 </table>
+
  ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
 
 ### Connect With Me : 
