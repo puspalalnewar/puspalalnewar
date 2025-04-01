@@ -44,77 +44,215 @@
 
 ### 🧰 Tech Stack and Tools 
 
-<table>
-     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,tailwind"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
-    </tr>
-<!--     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,azure,aws"/></td>
-    </tr> -->
-<!--     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=jest"/></td>
-    </tr> -->
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
-    </tr>
-<!--     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash,powershell"/></td>
-    </tr> -->
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
-    </tr>
+<table align="center">
   <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">API Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postman"/></td>
-    </tr>
- <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Hosting:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=netlify,vercel"/> 
-       </td>
- </tr>
-  <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,c,js,python"/> 
-       </td>
- </tr>
-<tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI Tools:</td>
-    <td>
-      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" title="ChatGPT"/>
-      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta" title="Meta"/>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/js-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />JavaScript
     </td>
-
-</tr>
- <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Learning Platforms:</td>
-        <td><a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
-         <img src="https://img.shields.io/badge/youtube-EC5252?style=for-the-badge&logo=youtube&logoColor=white" />
-        </td>
-   </tr>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/ts-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/react-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />React
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=nodejs"
+        width="65"
+        height="65"
+        alt="NodeJS" />
+      <br />NodeJS
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=express"
+        width="65"
+        height="65"
+        alt="Express" />
+      <br />Express
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=mongodb"
+        width="65"
+        height="65"
+        alt="MongoDB" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/mysql-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />MySQL
+    </td>
+  </tr>
   <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Competitive Coding:</td>
-        <td>
-<a href="https://leetcode.com/tirthasharma991/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-       </td>
- </tr>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=postman"
+        width="65"
+        height="65"
+        alt="Postman" />
+      <br />Postman
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=html"
+        width="65"
+        height="65"
+        alt="HTML5" />
+      <br />HTML5
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=css"
+        width="65"
+        height="65"
+        alt="CSS" />
+      <br />CSS
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=tailwind"
+        width="65"
+        height="65"
+        alt="tailwind" />
+      <br />Tailwind
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=bootstrap"
+        width="65"
+        height="65"
+        alt="bootstrap" />
+        <br />Bootstrap
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=vscode"
+        width="65"
+        height="65"
+        alt="VsCode" />
+      <br />VsCode
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=java"
+        width="65"
+        height="65"
+        alt="Java" />
+      <br />Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=c"
+        width="65"
+        height="65"
+        alt="C" />
+      <br />C
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=python"
+        width="65"
+        height="65"
+        alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=vite"
+        width="65"
+        height="65"
+        alt="Vite" />
+      <br />Vite
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=github"
+        alt="Github"
+        width="65"
+        height="65" />
+      <br />Github
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+        width="65"
+        height="65"
+        alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=figma"
+        width="65"
+        height="65"
+        alt="Figma" />
+      <br />Figma
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=gmail"
+        width="65"
+        height="65"
+        alt="Gmail" />
+      <br />Gmail
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000"
+        width="65"
+        height="65"
+        alt="ChatGPT" />
+      <br />ChatGPT
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000"
+        width="65"
+        height="65"
+        alt="Windows" />
+      <br />Windows
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"
+        width="65"
+        height="65"
+        alt="YouTube" />
+      <br />YouTube
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://img.icons8.com/?size=100&id=YMqd3ECYxCji&format=png&color=000000"
+        width="65"
+        height="65"
+        alt="Udemy" />
+      <br />Udemy
+    </td>
+  </tr>
 </table>
 
  ![borderseperator](https://github.com/user-attachments/assets/6eef409a-0a7b-4c86-829c-c131edfecfc8)
