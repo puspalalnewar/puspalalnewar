@@ -4,15 +4,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2>🚀 About Me</h2>
-<h3> Hello, I'm Puspalal Newar! 👋</h3> 
+## 👨‍💻 About Me
 
-- 🧑‍💻 **Passionate Frontend Developer | Lifelong Learner**  
-- 💻 Currently exploring and contributing to **Open Source** projects.  
-- 🚀 Constantly learning new technologies to enhance my skills.   
-- 🌍 From **India**, aspiring to make an impact in the tech world.  
-- 📸 Also interested in **photography**, capturing nature’s beauty!  
-- 📫 Reach me at **puspalalnewar79@gmail.com**  
+🎓 **Student of Computer Science**  
+💡 **DSA with Java | React.js | Tailwind CSS | JavaScript | Git | GitHub**
+
+I am a passionate Computer Science student who enjoys exploring new ideas and technologies every day. I have experience building responsive and interactive web applications using **React.js** and **Tailwind CSS**, with a strong foundation in **JavaScript**, **Git**, and **GitHub**.
+
+I am also well-versed in **Data Structures and Algorithms (DSA) with Java**, which helps me approach and solve complex coding problems efficiently.
+
+I thrive in **project-based learning environments** and enjoy contributing to innovative projects. Whether it’s optimizing web development workflows or tackling challenging coding problems, I am always eager to learn, grow, and enhance my skill set 🚀
+
 
 💡Let's connect, collaborate, and build something amazing together! ✨  
 
@@ -20,24 +22,6 @@
 
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=puspalalnewar&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=puspalalnewar&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" 
-         alt="puspalalnewar trophies" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/puspalal_newar" target="_blank">
-    <img 
-      src="https://img.shields.io/twitter/follow/puspalal_newar?logo=twitter&style=for-the-badge" 
-      alt="Follow @puspalal_newar on Twitter"
-    />
-  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -282,22 +266,6 @@
 
 ### 📈 Github Stats
 
-<table align="center" style="border-spacing: 20px; width: 100%;">
-  <tr>
-    <!-- Top Languages Card -->
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=puspalalnewar&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" 
-           alt="Top Languages" 
-           style="border: 2px solid #007ACC; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); width: 100%; max-width: 400px; height: auto;" />
-    </td>
-    <!-- GitHub Stats Card -->
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://github-readme-stats.vercel.app/api?username=puspalalnewar&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=true" 
-           alt="puspalalnewar" 
-           style="border: 2px solid #007ACC; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); width: 100%; max-width: 400px; height: auto;" />
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <p>
